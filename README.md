@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My second repository 
+This repository is to teach the basics of shell
